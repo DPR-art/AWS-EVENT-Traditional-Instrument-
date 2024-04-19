@@ -39,6 +39,7 @@ a{
     height: 100%;
     padding-top: 50px;
     display: flex;
+    width: 100vw;
     justify-content: space-evenly;
     align-items: center;
 }
